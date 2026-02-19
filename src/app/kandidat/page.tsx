@@ -10,6 +10,7 @@ import {
   VOTING_START_DATE,
 } from '@/modules/common/constants/voting.constant'
 
+export const dynamic = 'force-dynamic';
 export default async function CandidatePage() {
   const response = await getCandidatePairs()
 

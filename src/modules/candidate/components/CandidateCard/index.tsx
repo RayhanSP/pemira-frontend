@@ -3,6 +3,7 @@ import Link from 'next/link'
 import { CustomButton as Button } from '@/modules/common/components/Button'
 import { CandidatePairInterface } from '@/modules/candidate/actions/getCandidatePairs/interfaces'
 
+export const dynamic = 'force-dynamic';
 export const CandidateCard = async ({
   id,
   election_number,
