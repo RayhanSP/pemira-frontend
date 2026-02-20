@@ -1,2 +1,2 @@
-export const VOTING_START_DATE = '2026-02-20 08:00:00'
-export const VOTING_END_DATE = '2026-02-24 23:55:00'
+export const VOTING_START_DATE = '2025-03-18 08:00:00'
+export const VOTING_END_DATE = '2025-03-20 23:55:00'
