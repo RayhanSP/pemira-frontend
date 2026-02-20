@@ -61,6 +61,7 @@ export const CandidateCard = async ({
             justifyContent: 'center',
             flexDirection: 'column',
             aspectRatio: '1/1',
+            objectFit: 'cover',
           }}
           alt={name}
           src={candidate_pair_photo}
