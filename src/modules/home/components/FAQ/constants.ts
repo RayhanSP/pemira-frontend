@@ -19,7 +19,7 @@ export const FAQContent = [
   },
   {
     title: 'Kapan voting dimulai?',
-    desc: 'Voting akan dimulai pada tanggal 21 Januari dan akan berlangsung selama 7 hari sampai 27 Januari dan akan dilakukan penghitungan suara pada tanggal 28 Januari bersamaan dengan dilakukannya Grand Closing.',
+    desc: 'Voting akan dimulai pada tanggal 20 Februari dan akan berlangsung selama 5 hari sampai 24 Februari dan akan dilakukan penghitungan suara pada tanggal 25 Februari.',
   },
 ]
 
