@@ -122,7 +122,7 @@ export const Navbar: React.FC = () => {
                       display: { xs: 'block', md: 'none' },
                     }}
                   >
-                    FASILKOM UI 2024
+                    FASILKOM UI 2026
                   </Typography>
                 </Typography>
               </Box>

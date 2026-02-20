@@ -53,7 +53,7 @@ export default function EVotingPage() {
               >
                 Pemilihan Calon Ketua dan Wakil Ketua{' '}
               </Typography>
-              <Typography>BEM Fasilkom UI 2025</Typography>
+              <Typography>BEM Fasilkom UI 2026</Typography>
             </Box>
           </Box>
           {section === 'PROFILE' ? (

@@ -100,7 +100,7 @@ export const CandidateCard = async ({
           </Box>
           {!is_empty_box && (
             <Link
-              href={`/kandidat/${id}`}
+              href={`/kandidat/${id}/`}
               style={{
                 textDecoration: 'none',
               }}

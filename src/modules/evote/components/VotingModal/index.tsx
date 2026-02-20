@@ -116,7 +116,7 @@ export const VotingModal = ({
                       fontFamily: 'Inter',
                     }}
                   >
-                    {candidate.president} (Calon Ketua BEM Fasilkom UI 2023)
+                    {candidate.president} (Calon Ketua BEM Fasilkom UI 2026)
                   </Typography>
                   <Typography
                     component={'li'}
@@ -126,7 +126,7 @@ export const VotingModal = ({
                     }}
                   >
                     {candidate.vice_president} (Calon Wakil BEM Fasilkom UI
-                    2023)
+                    2026)
                   </Typography>
                 </Box>
               </Box>
