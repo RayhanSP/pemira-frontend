@@ -5,7 +5,6 @@ import { Download, Link as LinkIcon } from '@mui/icons-material'
 import { Disclosure } from '@/modules/common/components/Disclosure'
 import { getCandidateDetail } from '@/modules/candidate/actions/getCandidateDetail'
 
-export const dynamic = 'force-dynamic';
 export default async function CandidateDetailPage({
   params,
 }: {

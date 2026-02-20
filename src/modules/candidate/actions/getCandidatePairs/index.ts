@@ -3,7 +3,7 @@ import { GetCandidatePairsInterface } from './interfaces'
 
 export const getCandidatePairs = async () => {
   return await makeRequest<GetCandidatePairsInterface>({
-    path: `candidate/list`,
+    path: `candidate/list/`,
     method: 'GET',
   })
 }

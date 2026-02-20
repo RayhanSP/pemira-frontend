@@ -3,7 +3,7 @@ import { GetCandidateDetailResponseInterface } from '@/modules/candidate/actions
 
 export const getCandidateDetail = async (id: string) => {
   return await makeRequest<GetCandidateDetailResponseInterface>({
-    path: `candidate/get?candidate_id=${id}`,
+    path: `candidate/get?candidate_id=${id}/`,
     method: 'GET',
   })
 }
